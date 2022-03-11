@@ -1,0 +1,3 @@
+2022-03-11 18:47:53,027 INFO RabbitMQ [main] rabbitmq component
+2022-03-11 18:47:53,377 WARN JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-11 18:47:53,704 INFO StartupInfoLogger [main] Started AopApplication in 4.703 seconds (JVM running for 5.662)

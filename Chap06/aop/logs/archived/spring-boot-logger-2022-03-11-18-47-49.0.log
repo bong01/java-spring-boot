@@ -1,0 +1,2 @@
+2022-03-11 18:47:49,461 INFO StartupInfoLogger [main] Starting AopApplication using Java 16.0.2 on igyubong-ui-MacBookAir.local with PID 1139 (/Users/bong/Downloads/aop/build/classes/java/main started by bong in /Users/bong/Downloads/aop)
+2022-03-11 18:47:49,485 INFO SpringApplication [main] The following 1 profile is active: "test"
