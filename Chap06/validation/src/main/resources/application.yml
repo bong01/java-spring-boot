@@ -1,0 +1,20 @@
+spring:
+  profiles:
+    active: test
+#spring.profiles.active=test
+
+logging:
+  level:
+    root: warn
+    dev.bong: info
+
+custom:
+  property:
+    single: custom-property
+    comlist: comma, separated, list, to, value
+    ncp:
+      id: api-id
+      key: api-key
+      url: https://ncp.com/
+#custom.property.single
+#custom.property.comlist

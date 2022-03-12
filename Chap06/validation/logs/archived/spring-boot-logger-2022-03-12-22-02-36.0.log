@@ -1,0 +1,2 @@
+2022-03-12 22:02:36,684 INFO StartupInfoLogger [main] Starting ValidationApplication using Java 16.0.2 on igyubong-ui-MacBookAir.local with PID 4583 (/Users/bong/Downloads/validation/build/classes/java/main started by bong in /Users/bong/Downloads/validation)
+2022-03-12 22:02:36,733 INFO SpringApplication [main] The following 1 profile is active: "test"
