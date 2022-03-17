@@ -1,0 +1,2 @@
+2022-03-17 14:20:23,675 DEBUG PostExceptionResolver [http-nio-8080-exec-1] class dev.bong.jpa.exception.PostNotExistException
+2022-03-17 14:20:23,696 DEBUG AbstractHandlerExceptionResolver [http-nio-8080-exec-1] Resolved [dev.bong.jpa.exception.PostNotExistException: Target post does not exist]
