@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: test
+#spring.profiles.active=test
+
+logging:
+  level:
+    dev.bong.jpa.interceptor: trace
+
+custom:
+  property:
+    single: custom-property
+    comlist: comma, separated, list, to, value
+    ncp:
+      id: api-id
+      key: api-key
+      url: https://ncp.com/
+#custom.property.single
+#custom.property.comlist

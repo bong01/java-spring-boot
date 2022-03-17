@@ -1,0 +1,7 @@
+2022-03-17 16:44:28,196 INFO HeaderLoggingInterceptor [http-nio-8080-exec-1] start processing of createPost
+2022-03-17 16:44:28,201 TRACE HeaderLoggingInterceptor [http-nio-8080-exec-1] host: localhost:8080
+2022-03-17 16:44:28,202 TRACE HeaderLoggingInterceptor [http-nio-8080-exec-1] user-agent: insomnia/2022.1.1
+2022-03-17 16:44:28,202 TRACE HeaderLoggingInterceptor [http-nio-8080-exec-1] content-type: application/json
+2022-03-17 16:44:28,202 TRACE HeaderLoggingInterceptor [http-nio-8080-exec-1] accept: */*
+2022-03-17 16:44:28,202 TRACE HeaderLoggingInterceptor [http-nio-8080-exec-1] content-length: 84
+2022-03-17 16:44:28,322 INFO HeaderLoggingInterceptor [http-nio-8080-exec-1] start processing of createPost
